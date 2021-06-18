@@ -1,3 +1,10 @@
+eLiteChiaPlot
+Windows APP Gui Chia-Plotter MadMAX
+
+
+
+
+
 # chia-plotter (pipelined multi-threaded)
 
 This is a new implementation of a chia plotter which is designed as a processing pipeline,
