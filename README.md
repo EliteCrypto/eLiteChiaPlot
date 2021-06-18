@@ -1,7 +1,8 @@
 eLiteChiaPlot
 Windows APP Gui Chia-Plotter MadMAX
 
-
+Usage
+Check discord for support: https://discord.gg/D5beZ9ae
 
 
 
